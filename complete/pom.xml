@@ -33,7 +33,7 @@
                               </exclusion>
 		        </exclusions>
                </dependency>
-        </dependencice>
+        </dependencices>
    
         <build
 		<plugins>
