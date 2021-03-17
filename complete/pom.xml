@@ -32,8 +32,8 @@
                                       <artifactId>junit</artifactId>
                               </exclusion>
 		        </exclusions>
-               </dependency>
-        </dependencices>
+                 </dependency>
+         </dependencices>
    
         <build
 		<plugins>
